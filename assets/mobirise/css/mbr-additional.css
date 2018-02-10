@@ -1827,3 +1827,27 @@ body {
 .cid-qJhBR0osS1 H2 {
   text-align: left;
 }
+.cid-qJhHMkpYzJ {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-720x1080.jpg");
+}
+.cid-qJhHjcr4TU {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-qJhHjcr4TU .testimonial-text {
+  font-style: italic;
+  font-weight: 300;
+}
+.cid-qJhHjcr4TU .mbr-author-name {
+  font-weight: bold;
+}
+.cid-qJhHjcr4TU .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+}
+#instagram-feed-block-a .inst__title {
+  color: #ffffff;
+}
