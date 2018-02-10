@@ -1816,7 +1816,7 @@ body {
 .cid-qJhBR0osS1 {
   padding-top: 135px;
   padding-bottom: 60px;
-  background-color: #f9f9f9;
+  background-image: url("../../../assets/images/mbr-2-720x1080.jpg");
 }
 .cid-qJhBR0osS1 h2 {
   text-align: left;
@@ -1880,58 +1880,6 @@ body {
   padding-top: 0px;
   padding-bottom: 120px;
   background-color: #f9f9f9;
-}
-.cid-qJhIUax511 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/mbr-1620x1080.jpg");
-}
-.cid-qJhIUax511 .nav-tabs .nav-item.open .nav-link:focus,
-.cid-qJhIUax511 .nav-tabs .nav-link.active:focus {
-  outline: none;
-}
-.cid-qJhIUax511 .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  border-bottom: none;
-}
-.cid-qJhIUax511 .nav-tabs .nav-item {
-  padding: .5rem;
-}
-.cid-qJhIUax511 .nav-tabs .nav-link {
-  color: #ffffff;
-  font-style: normal;
-  font-weight: 500;
-  border: 1px solid #ffffff;
-  transition: all .5s;
-}
-.cid-qJhIUax511 .nav-tabs .nav-link:hover {
-  cursor: pointer;
-  background-color: #149dcc;
-}
-.cid-qJhIUax511 .nav-tabs .nav-link.active {
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background-color: #149dcc;
-  border-color: #149dcc;
-}
-.cid-qJhIUax511 .nav-tabs .nav-link.active:hover {
-  background-color: #149dcc;
-}
-.cid-qJhIUax511 p {
-  color: #ffffff;
-}
-.cid-qJhIUax511 .mbr-text {
-  text-align: center;
-}
-#instagram-feed-block-a .inst__title {
-  color: #ffffff;
-}
-#instagram-feed-block-a .inst__title U {
-  color: #232323;
 }
 .cid-qJi09axYXA {
   padding-top: 60px;
