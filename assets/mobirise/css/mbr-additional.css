@@ -1827,6 +1827,55 @@ body {
 .cid-qJi63lrYNI .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-qJi8n6G4p8 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1437x1080.jpg");
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-item.open .nav-link:focus,
+.cid-qJi8n6G4p8 .nav-tabs .nav-link.active:focus {
+  outline: none;
+}
+.cid-qJi8n6G4p8 .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-item {
+  padding: .5rem;
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-link {
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border: 1px solid #ffffff;
+  transition: all .5s;
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-link:hover {
+  cursor: pointer;
+  background-color: #149dcc;
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  background-color: #149dcc;
+  border-color: #149dcc;
+}
+.cid-qJi8n6G4p8 .nav-tabs .nav-link.active:hover {
+  background-color: #149dcc;
+}
+.cid-qJi8n6G4p8 p {
+  color: #ffffff;
+}
+.cid-qJi8n6G4p8 .mbr-text {
+  text-align: center;
+}
+.cid-qJi8n6G4p8 H2 {
+  text-align: center;
+}
 .cid-qJhBR0osS1 {
   padding-top: 135px;
   padding-bottom: 60px;
