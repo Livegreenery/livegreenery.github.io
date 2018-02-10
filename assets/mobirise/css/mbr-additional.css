@@ -1813,6 +1813,20 @@ body {
 .cid-qJhLETnPEy H2 {
   text-align: center;
 }
+.cid-qJi63lrYNI {
+  background-image: url("../../../assets/images/background1.jpg");
+}
+.cid-qJi63lrYNI h1 {
+  color: #616161;
+}
+.cid-qJi63lrYNI h2,
+.cid-qJi63lrYNI h3,
+.cid-qJi63lrYNI p {
+  color: #767676;
+}
+.cid-qJi63lrYNI .mbr-section-subtitle {
+  font-style: italic;
+}
 .cid-qJhBR0osS1 {
   padding-top: 135px;
   padding-bottom: 60px;
